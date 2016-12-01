@@ -1,2 +1,2 @@
 # Firestarter
-Starts SFML projects.
+Starts SFML projects easily.
